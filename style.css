@@ -1,0 +1,45 @@
+body {
+  color: #454545;
+  font-family: "Proxima Nova", "Proxima Nova Alt", sans-serif;
+  background: #f9f9f9;
+}
+
+.page {
+  width: 600px;
+  margin: 40px auto;
+  padding: 30px;
+  background: #fff;
+  box-shadow: 0 0 5px #e0e0e0;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+a {
+  color: #08c;
+  text-decoration: none;
+}
+
+time {
+  font-size: 13px;
+  color: #999;
+}
+
+h2 {
+  color: #888;
+  margin-top: 30px;
+  border-bottom: 1px solid #e0e0e0;
+  padding-bottom: 6px;
+}
+
+h3 {
+  margin: 0;
+}
+
+h1 {
+  margin: 0;
+}
+
+.meta {
+ font-size: 13px;
+ color: #888;
+}
